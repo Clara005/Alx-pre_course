@@ -1,1 +1,1 @@
-My first Commit
+Starting to code today, so cool
